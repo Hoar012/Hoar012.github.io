@@ -14,7 +14,7 @@ img,iframe,video{max-width:70%;height:auto}main{hyphens:auto}blockquote{backgrou
 .flex-column-20{flex:20%}.flex-column-80{flex:80%}.flex-column-60{flex:60%}.flex-column-40{flex:40%}
 .about-title{border-left:solid 6px var(--primary-dark);padding-left:8px;font-family:pt sans,ibm plex sans,arial,sans-serif;font-size:25px}
 .about-div{font-size:15pt;font-family:Optima,Candara,Calibri,Arial,sans-serif}
-/* .about-div li{list-style-type:none}: remove cdot */
+.about-div li{list-style-type:disc}
 .about-div li>p{margin:0}.general-div{margin-right:auto;font-size:12pt}
 .name-title{display:flex}.name-title h1:nth-child(2){margin-left:10px}@media(max-width:1064px){.name-title{justify-content:center;align-items:center;flex-direction:column}.name-title h1{margin:0}}.indent{margin-left:40px}.no-top-margin{margin-top:0}.no-bottom-margin p{margin-bottom:0}.btn{cursor:pointer}.avatar-sm{display:inherit!important;width:24px}.mr-2{margin-right:.5rem}
 .li-no-style{list-style-type:none}.disabled{pointer-events:none}.busuanzi{font-size:x-small}.return+#TableOfContents{margin-top:0}.return+#TableOfContents ul{margin-block-start:0}.avator img{max-width:250px;margin-left:150px;margin-top:30px}
